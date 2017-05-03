@@ -28,26 +28,49 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Komatsu Brasil International
+      location: São Paulo, Brazil
+      title: IT CONSULTANT
+      started: 2013
+      duration: (Nov 2013 - Present)
+      description: '• SAP ERP deployment, improving general performance for a whole new acquired operation.</br>
+                    • New users and new features training.<br/>
+                    • Development and maintenance of new web sales platform improving sales department performance and
+                    • costumer satisfaction.<br/>
+                    • Development and maintenance of data migration interface for systems integration.
+                    • Work along business areas to develop and build new solutions.'
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Service 1 Consulting
+      location: São Paulo, Brazil
+      title: SAP BUSINESS ONE CONSULTANT
+      started: 2013
+      duration: (Mar 2013 - Oct 2013)
+      description: '• SAP ERP functional deployment
+                    • Development of reports using SQL queries and Crystal Reports
+                    • New users and new features training.'
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Superabiz
+      location: São Paulo, Brazil
+      title: SYSTEM ANALIST
+      started: 2013
+      duration: (Jan 2013 - Mar 2013)
+      description: • Development and maintenance of addons for SAP Business One.
+    - work4:
+      company: GEOBS
+      location: Santos, Brazil
+      title: SAP BUSINESS ONE CONSULTANT
+      started: 2010
+      duration: (Sep 2010 - Jan 2013)
+      description: '• ERP SAP Business One Implementation
+                    • Development of integration systems
+                    • Development of management reports in Crystal Reports'
+    - work5:
+      company: Jurujuba Publicidade
+      location: Santos, Brazil
+      title: WEB DEVELOPER
+      started: 2010
+      duration: (May 2010 - Sep 2010)
+      description: '• Development of interactive websites using mostly the LAMP stack (Linux, Apache, MySQL and PHP) acting both on the back end as front-end (HTML, CSS).'
   educationHistory:
     - education1:
       organization: XXXXXX University
